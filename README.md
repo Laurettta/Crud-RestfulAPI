@@ -1,1 +1,1 @@
-This is a Simple Crud Restful API# Crud-RestfulAPI
+This project is a straightforward implementation of a CRUD (Create, Read, Update, Delete) Restful API using the Spring Boot framework. # Crud-RestfulAPI
